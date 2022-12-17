@@ -1,9 +1,9 @@
-package segundoIso;
+
 
 
 import java.util.*;
 
-public class Prinncipañ {
+public class Principal {
 	static Scanner TECLADO = new Scanner (System.in);
 	public static void main (String [] args) {
 		List<Integer> list = new ArrayList<Integer>();

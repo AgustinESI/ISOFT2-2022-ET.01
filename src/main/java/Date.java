@@ -1,4 +1,4 @@
-package segundoIso;
+
 
 public class Date {
 	int day;
