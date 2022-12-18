@@ -11,7 +11,11 @@ public class Date {
 	public int getDay() {
 		return day;
 	}
-
+	/**
+	 * 
+	 * @param day valor para settear el dia de la fecha
+	 
+	 */
 	public void setDay(int day) {
 		this.day = day;
 	}
@@ -19,7 +23,11 @@ public class Date {
 	public int getMonth() {
 		return month;
 	}
-
+	/**
+	 * 
+	 * @param month valor para settear elmes de la fecha
+	
+	 */
 	public void setMonth(int month) {
 		this.month = month;
 	}
@@ -27,7 +35,11 @@ public class Date {
 	public int getYear() {
 		return year;
 	}
-
+	/**
+	 * 
+	 * @param year valor para settear el año de la fecha
+	
+	 */
 	public void setYear(int year) {
 		this.year = year;
 	}
