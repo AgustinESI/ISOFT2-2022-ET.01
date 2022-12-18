@@ -2,7 +2,7 @@
 import java.util.*;
 
 public class Principal {
-	static Scanner TECLADO = new Scanner(System.in);
+	public static final Scanner TECLADO = new Scanner(System.in, "UTF8");
 	private static DateController dateController = new DateController();
 
 	public static void main(String[] args) {
