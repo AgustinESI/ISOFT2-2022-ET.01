@@ -24,7 +24,7 @@ public class Principal {
 	}
 
 	private static int leerEnteros() {
-		Integer value = null;
+		Integer value = 0;
 		try {
 			value = TECLADO.nextInt();
 		} catch (Exception e) {
